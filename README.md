@@ -50,11 +50,6 @@ A digital archive for "The Genesis" — the official e-Newsletter of Gyan Ganga 
 - `/src/pages/` — Main pages (Home, About, Archives, NewsletterView)
 - `/src/data/newsletters.js` — Newsletter data
 
-## Credits
-
-Created by the e-Newsletter Club at Gyan Ganga Institute of Technology and Sciences, Jabalpur.
-
-Special thanks to the Genesis team: Khushi Vishwakarma, Palak Jaiswal, Nandan Patkar, Shruti Shrivastav, Udyan Saxena, Shashank Singh Rajput, and Faiz Ansari.
 
 ---
 >>>>>>> bad1a6c (Add project README)
