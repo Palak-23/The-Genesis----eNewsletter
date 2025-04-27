@@ -124,7 +124,7 @@ const Home = () => {
               </div>
 
               <div className="text-center mt-10">
-                <button onClick={() => window.location.href = '/Archives'} 
+                <button onClick={() => navigate('archives')} 
                   className="text-lg font-light px-8 py-3 rounded-full border-2 border-black text-black transition-all duration-300 transform hover:scale-105 hover:shadow-lg cursor-pointer"
                 >
                   View All Newsletters
