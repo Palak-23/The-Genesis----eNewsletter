@@ -1,9 +1,13 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import MobileMenu from '../components/MobileMenu';
+import { useNavigate } from 'react-router-dom'; //updated
+
 
 const Home = () => {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+
+const navigate = useNavigate(); //updated
 
   return (
     <div className="bg-[#f5f5f5] min-h-screen">
