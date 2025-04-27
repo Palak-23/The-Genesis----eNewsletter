@@ -95,15 +95,15 @@ const About = () => {
                 </p>
                 <p className="mb-6 text-xl">
                   As a team of seven—Khushi Vishwakarma, Palak Jaiswal, Nandan
-                  Patkar, Shruti Shrivastav, Udyan Saxena, Shashank Singh
-                  Rajput, and Faiz Ansari—we set out to foster discussions on
+                  Patkar, Shruti Shrivastava, Udyan Saxena, Shashank Shekhar
+                  Pandey, and Faiz Ansari—we set out to foster discussions on
                   emerging tech trends while also providing a platform for
                   artistic expression through writing, poetry, photography, and
                   design.
                 </p>
                 <p className="mb-6 text-xl">
                   Over time, our initiative grew into a hub for ideas and
-                  innovation, publishing 11-12 online editions and even an
+                  innovation, publishing 11 online editions and an
                   offline special edition. While the club has now concluded its
                   journey, this website stands as an archive of our work,
                   preserving the conversations, insights, and creativity that
